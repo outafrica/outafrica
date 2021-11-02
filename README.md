@@ -1,0 +1,8 @@
+<p align="center"><a href="#" target="_blank"><img src="/public/images/fav.png" width="400"></a></p>
+
+
+## About Outafrica
+
+![Loading... 10%](https://progress-bar.dev/10)
+
+
