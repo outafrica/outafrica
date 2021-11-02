@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="/public/images/fav.png" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="/public/images/fav.png" width="200"></a></p>
 
 
 ## About Outafrica
