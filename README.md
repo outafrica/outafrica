@@ -3,6 +3,6 @@
 
 ## About Outafrica
 
-![Loading... 10%](https://progress-bar.dev/10)
+![10%](https://progress-bar.dev/10)
 
 
