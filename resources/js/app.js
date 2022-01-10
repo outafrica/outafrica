@@ -31,5 +31,5 @@ Vue.component('profile', require('./components/main/profile.vue').default);
  */
 
 const app = new Vue({
-    el: '#app',
+    el: '#home-section',
 });

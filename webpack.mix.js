@@ -1,4 +1,5 @@
 const mix = require('laravel-mix');
+const tailwindcss = require('tailwindcss'); /* Add this line at the top */
 
 /*
  |--------------------------------------------------------------------------
@@ -13,10 +14,19 @@ const mix = require('laravel-mix');
 
 mix.js('resources/js/app.js', 'public/js')
     .vue()
-    // .sass('resources/sass/app.scss', 'public/css', [
+    .sass('resources/sass/app.scss', 'public/css')
+    .options({
+        postCss: [ tailwindcss('./tailwind.config.js') ],
+    })
+    .version()
+    .styles([
+        'resources/css/profile/basic.css',
+        'resources/css/profile/layout.css',
+        'resources/css/profile/ionicons.css',
+        'resources/css/profile/owl.carousel.css',
+        'resources/css/profile/magnific-popup.css',
+        'resources/css/profile/animate.css',
+    ], 'public/css/profile/profile.css');
+    // .postCss('resources/css/app.css', 'public/css', [
     //     require("tailwindcss"),
-
-    // ])
-    .postCss('resources/css/app.css', 'public/css', [
-        require("tailwindcss"),
-    ]);
+    // ]);

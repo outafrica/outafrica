@@ -18,6 +18,320 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   data: function data() {
     return {
@@ -44,6 +358,7 @@ __webpack_require__.r(__webpack_exports__);
  */
 // require('./bootstrap');
 // import '../css/app.css';
+// require('tailwindcss');
 window.Vue = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm.js")["default"];
 /**
  * The following block of code may be used to automatically register your
@@ -63,15 +378,15 @@ Vue.component('profile', __webpack_require__(/*! ./components/main/profile.vue *
  */
 
 var app = new Vue({
-  el: '#app'
+  el: '#home-section'
 });
 
 /***/ }),
 
-/***/ "./resources/css/app.css":
-/*!*******************************!*\
-  !*** ./resources/css/app.css ***!
-  \*******************************/
+/***/ "./resources/sass/app.scss":
+/*!*********************************!*\
+  !*** ./resources/sass/app.scss ***!
+  \*********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -177,8 +492,801 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", [
-      _c("h1", { staticClass: "text-green-400" }, [
-        _vm._v("Here we go again ..."),
+      _c("div", { staticClass: "preloader" }, [
+        _c("div", { staticClass: "centrize full-width" }, [
+          _c("div", { staticClass: "vertical-center" }, [
+            _c("div", { staticClass: "spinner" }, [
+              _c("div", { staticClass: "double-bounce1" }),
+              _vm._v(" "),
+              _c("div", { staticClass: "double-bounce2" }),
+            ]),
+          ]),
+        ]),
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "started-bg" }, [
+        _c("div", {
+          staticClass: "slide",
+          staticStyle: { "background-image": "url(images/particles-bg.jpg)" },
+          attrs: { id: "particles-bg" },
+        }),
+      ]),
+      _vm._v(" "),
+      _c("header", [
+        _c("div", { staticClass: "top-menu" }, [
+          _c("ul", [
+            _c("li", { staticClass: "active" }, [
+              _c(
+                "a",
+                {
+                  staticClass: "btn_animated",
+                  attrs: { href: "#home-section" },
+                },
+                [_c("span", { staticClass: "circle" }, [_vm._v("Home")])]
+              ),
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                {
+                  staticClass: "btn_animated",
+                  attrs: { href: "#about-section" },
+                },
+                [_c("span", { staticClass: "circle" }, [_vm._v("About")])]
+              ),
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                {
+                  staticClass: "btn_animated",
+                  attrs: { href: "#skills-section" },
+                },
+                [_c("span", { staticClass: "circle" }, [_vm._v("Skills")])]
+              ),
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                {
+                  staticClass: "btn_animated",
+                  attrs: { href: "#experience-section" },
+                },
+                [_c("span", { staticClass: "circle" }, [_vm._v("Experience")])]
+              ),
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                {
+                  staticClass: "btn_animated",
+                  attrs: { href: "#service-section" },
+                },
+                [_c("span", { staticClass: "circle" }, [_vm._v("Services")])]
+              ),
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                {
+                  staticClass: "btn_animated",
+                  attrs: { href: "#education-section" },
+                },
+                [_c("span", { staticClass: "circle" }, [_vm._v("Education")])]
+              ),
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                {
+                  staticClass: "btn_animated",
+                  attrs: { href: "#works-section" },
+                },
+                [_c("span", { staticClass: "circle" }, [_vm._v("Portfolio")])]
+              ),
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                {
+                  staticClass: "btn_animated",
+                  attrs: { href: "#clients-section" },
+                },
+                [_c("span", { staticClass: "circle" }, [_vm._v("Clients")])]
+              ),
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                {
+                  staticClass: "btn_animated",
+                  attrs: { href: "#pricing-section" },
+                },
+                [_c("span", { staticClass: "circle" }, [_vm._v("Pricing")])]
+              ),
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                {
+                  staticClass: "btn_animated",
+                  attrs: { href: "#blog-section" },
+                },
+                [_c("span", { staticClass: "circle" }, [_vm._v("Blog")])]
+              ),
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                {
+                  staticClass: "btn_animated",
+                  attrs: { href: "#contact-section" },
+                },
+                [_c("span", { staticClass: "circle" }, [_vm._v("Contact Me")])]
+              ),
+            ]),
+          ]),
+          _vm._v(" "),
+          _c("a", { staticClass: "menu-btn", attrs: { href: "#" } }, [
+            _c("span"),
+          ]),
+        ]),
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "wrapper" }, [
+          _c(
+            "div",
+            {
+              staticClass: "section about started",
+              attrs: { id: "about-section" },
+            },
+            [
+              _c("div", { staticClass: "content-box" }, [
+                _c("div", { staticClass: "row" }, [
+                  _c("div", { staticClass: "col col-m-12 col-t-5 col-d-5" }, [
+                    _c("div", { staticClass: "st-box mobile" }, [
+                      _c("div", { staticClass: "st-title" }, [
+                        _vm._v("George Outa"),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "st-subtitle" }, [
+                        _vm._v("Full Stack Developer"),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "st-soc" }, [
+                        _c(
+                          "a",
+                          {
+                            staticClass: "btn_animated",
+                            attrs: {
+                              target: "blank",
+                              href: "https://github.com.com/",
+                            },
+                          },
+                          [
+                            _c("span", { staticClass: "circle" }, [
+                              _c("i", {
+                                staticClass: "icon ion ion-social-github",
+                              }),
+                            ]),
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            staticClass: "btn_animated",
+                            attrs: { href: "skype:smorgan" },
+                          },
+                          [
+                            _c("span", { staticClass: "circle" }, [
+                              _c("i", {
+                                staticClass: "icon ion ion-social-skype",
+                              }),
+                            ]),
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            staticClass: "btn_animated",
+                            attrs: {
+                              target: "blank",
+                              href: "https://www.linkedin.com/in/george-outa/",
+                            },
+                          },
+                          [
+                            _c("span", { staticClass: "circle" }, [
+                              _c("i", {
+                                staticClass: "icon ion ion-social-linkedin",
+                              }),
+                            ]),
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            staticClass: "btn_animated",
+                            attrs: {
+                              target: "blank",
+                              href: "https://twitter.com/",
+                            },
+                          },
+                          [
+                            _c("span", { staticClass: "circle" }, [
+                              _c("i", {
+                                staticClass: "icon ion ion-social-twitter",
+                              }),
+                            ]),
+                          ]
+                        ),
+                      ]),
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "profile-image" }, [
+                      _c("img", {
+                        attrs: { src: "images/man_big.jpg", alt: "" },
+                      }),
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "info-list" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("strong", [_c("span", [_vm._v("Address:")])]),
+                          _vm._v(" Nairobi, Kenya"),
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("strong", [_c("span", [_vm._v("Phone:")])]),
+                          _vm._v(" "),
+                          _c("a", { attrs: { href: "tel:+254700613065" } }, [
+                            _vm._v("+254 700 613065"),
+                          ]),
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("strong", [_c("span", [_vm._v("E-mail:")])]),
+                          _vm._v(" "),
+                          _c(
+                            "a",
+                            {
+                              attrs: { href: "mailto:george.jarviz@gmail.com" },
+                            },
+                            [_vm._v("george.jarviz@gmail.com")]
+                          ),
+                        ]),
+                      ]),
+                    ]),
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "col col-m-12 col-t-7 col-d-7" }, [
+                    _c("div", { staticClass: "st-box desctop" }, [
+                      _c("div", { staticClass: "st-title" }, [
+                        _vm._v("George Outa"),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "st-subtitle" }, [
+                        _vm._v("Full Stack Developer"),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "st-soc" }, [
+                        _c(
+                          "a",
+                          {
+                            staticClass: "btn_animated",
+                            attrs: {
+                              target: "blank",
+                              href: "https://github.com.com/",
+                            },
+                          },
+                          [
+                            _c("span", { staticClass: "circle" }, [
+                              _c("i", {
+                                staticClass: "icon ion ion-social-github",
+                              }),
+                            ]),
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            staticClass: "btn_animated",
+                            attrs: { href: "skype:smorgan" },
+                          },
+                          [
+                            _c("span", { staticClass: "circle" }, [
+                              _c("i", {
+                                staticClass: "icon ion ion-social-skype",
+                              }),
+                            ]),
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            staticClass: "btn_animated",
+                            attrs: {
+                              target: "blank",
+                              href: "https://www.linkedin.com/in/george-outa/",
+                            },
+                          },
+                          [
+                            _c("span", { staticClass: "circle" }, [
+                              _c("i", {
+                                staticClass: "icon ion ion-social-linkedin",
+                              }),
+                            ]),
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c(
+                          "a",
+                          {
+                            staticClass: "btn_animated",
+                            attrs: {
+                              target: "blank",
+                              href: "https://twitter.com/",
+                            },
+                          },
+                          [
+                            _c("span", { staticClass: "circle" }, [
+                              _c("i", {
+                                staticClass: "icon ion ion-social-twitter",
+                              }),
+                            ]),
+                          ]
+                        ),
+                      ]),
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "text-box" }, [
+                      _c("p", [
+                        _vm._v(
+                          "\n\t\t\t\t\t\t\t\t\t\tSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, \n\t\t\t\t\t\t\t\t\t\teaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam \n\t\t\t\t\t\t\t\t\t\tvoluptatem quia voluptas sit aspernatur aut odit aut fugit. Sed ut perspiciatis unde omnis iste natus error sit \n\t\t\t\t\t\t\t\t\t\tvoluptatem accusantium doloremque.\n\t\t\t\t\t\t\t\t\t"
+                        ),
+                      ]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v(
+                          "\n\t\t\t\t\t\t\t\t\t\tSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, \n\t\t\t\t\t\t\t\t\t\teaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam \n\t\t\t\t\t\t\t\t\t\tvoluptatem quia voluptas sit aspernatur aut odit aut fugit. Sed ut perspiciatis unde omnis iste natus error sit \n\t\t\t\t\t\t\t\t\t\tvoluptatem accusantium doloremque.\n\t\t\t\t\t\t\t\t\t"
+                        ),
+                      ]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v(
+                          "\n\t\t\t\t\t\t\t\t\t\tNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.\n\t\t\t\t\t\t\t\t\t"
+                        ),
+                      ]),
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "bts" }, [
+                      _c(
+                        "a",
+                        {
+                          staticClass: "btn btn_animated",
+                          attrs: { href: "#" },
+                        },
+                        [
+                          _c("span", { staticClass: "circle" }, [
+                            _vm._v("Download CV"),
+                          ]),
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "a",
+                        {
+                          staticClass: "btn extra contact-btn btn_animated",
+                          attrs: { href: "#" },
+                        },
+                        [
+                          _c("span", { staticClass: "circle" }, [
+                            _vm._v("Contact Me"),
+                          ]),
+                        ]
+                      ),
+                    ]),
+                  ]),
+                ]),
+              ]),
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticClass: "section skills", attrs: { id: "skills-section" } },
+            [
+              _c("div", { staticClass: "title" }, [_vm._v("Skills")]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col col-m-12 col-t-6 col-d-6" }, [
+                  _c("div", { staticClass: "content-box animated" }, [
+                    _c("div", { staticClass: "i_title" }, [
+                      _c("div", { staticClass: "icon" }, [
+                        _c("i", { staticClass: "icon ion ion-gear-b" }),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "name" }, [
+                        _vm._v("Professional"),
+                      ]),
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "skills" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("div", { staticClass: "name" }, [_vm._v("C++")]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "progress" }, [
+                            _c(
+                              "div",
+                              {
+                                staticClass: "percentage",
+                                staticStyle: { width: "80%" },
+                              },
+                              [
+                                _c("span", { staticClass: "percent" }, [
+                                  _c("i", {
+                                    staticClass:
+                                      "icon ion ion-ios-checkmark-empty",
+                                  }),
+                                ]),
+                              ]
+                            ),
+                          ]),
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("div", { staticClass: "name" }, [
+                            _vm._v("Laravel(PHP)"),
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "progress" }, [
+                            _c(
+                              "div",
+                              {
+                                staticClass: "percentage",
+                                staticStyle: { width: "90%" },
+                              },
+                              [
+                                _c("span", { staticClass: "percent" }, [
+                                  _c("i", {
+                                    staticClass:
+                                      "icon ion ion-ios-checkmark-empty",
+                                  }),
+                                ]),
+                              ]
+                            ),
+                          ]),
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("div", { staticClass: "name" }, [_vm._v("Vue")]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "progress" }, [
+                            _c(
+                              "div",
+                              {
+                                staticClass: "percentage",
+                                staticStyle: { width: "70%" },
+                              },
+                              [
+                                _c("span", { staticClass: "percent" }, [
+                                  _c("i", {
+                                    staticClass:
+                                      "icon ion ion-ios-checkmark-empty",
+                                  }),
+                                ]),
+                              ]
+                            ),
+                          ]),
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("div", { staticClass: "name" }, [
+                            _vm._v("CCNA Certification"),
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "progress" }, [
+                            _c(
+                              "div",
+                              {
+                                staticClass: "percentage",
+                                staticStyle: { width: "20%" },
+                              },
+                              [
+                                _c("span", { staticClass: "percent" }, [
+                                  _c("i", {
+                                    staticClass:
+                                      "icon ion ion-ios-checkmark-empty",
+                                  }),
+                                ]),
+                              ]
+                            ),
+                          ]),
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("div", { staticClass: "name" }, [
+                            _vm._v("CCDA Certification"),
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "progress" }, [
+                            _c(
+                              "div",
+                              {
+                                staticClass: "percentage",
+                                staticStyle: { width: "10%" },
+                              },
+                              [
+                                _c("span", { staticClass: "percent" }, [
+                                  _c("i", {
+                                    staticClass:
+                                      "icon ion ion-ios-checkmark-empty",
+                                  }),
+                                ]),
+                              ]
+                            ),
+                          ]),
+                        ]),
+                      ]),
+                    ]),
+                  ]),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col col-m-12 col-t-6 col-d-6" }, [
+                  _c("div", { staticClass: "content-box animated" }, [
+                    _c("div", { staticClass: "i_title" }, [
+                      _c("div", { staticClass: "icon" }, [
+                        _c("i", { staticClass: "icon ion ion-person" }),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "name" }, [_vm._v("Personal")]),
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "skills" }, [
+                      _c("ul", [
+                        _c("li", [
+                          _c("div", { staticClass: "name" }, [
+                            _vm._v("Communication"),
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "progress" }, [
+                            _c(
+                              "div",
+                              {
+                                staticClass: "percentage",
+                                staticStyle: { width: "98%" },
+                              },
+                              [
+                                _c("span", { staticClass: "percent" }, [
+                                  _c("i", {
+                                    staticClass:
+                                      "icon ion ion-ios-checkmark-empty",
+                                  }),
+                                ]),
+                              ]
+                            ),
+                          ]),
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("div", { staticClass: "name" }, [
+                            _vm._v("Team Work"),
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "progress" }, [
+                            _c(
+                              "div",
+                              {
+                                staticClass: "percentage",
+                                staticStyle: { width: "90%" },
+                              },
+                              [
+                                _c("span", { staticClass: "percent" }, [
+                                  _c("i", {
+                                    staticClass:
+                                      "icon ion ion-ios-checkmark-empty",
+                                  }),
+                                ]),
+                              ]
+                            ),
+                          ]),
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("div", { staticClass: "name" }, [
+                            _vm._v("Leadership"),
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "progress" }, [
+                            _c(
+                              "div",
+                              {
+                                staticClass: "percentage",
+                                staticStyle: { width: "80%" },
+                              },
+                              [
+                                _c("span", { staticClass: "percent" }, [
+                                  _c("i", {
+                                    staticClass:
+                                      "icon ion ion-ios-checkmark-empty",
+                                  }),
+                                ]),
+                              ]
+                            ),
+                          ]),
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("div", { staticClass: "name" }, [
+                            _vm._v("Creativity"),
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "progress" }, [
+                            _c(
+                              "div",
+                              {
+                                staticClass: "percentage",
+                                staticStyle: { width: "90%" },
+                              },
+                              [
+                                _c("span", { staticClass: "percent" }, [
+                                  _c("i", {
+                                    staticClass:
+                                      "icon ion ion-ios-checkmark-empty",
+                                  }),
+                                ]),
+                              ]
+                            ),
+                          ]),
+                        ]),
+                        _vm._v(" "),
+                        _c("li", [
+                          _c("div", { staticClass: "name" }, [
+                            _vm._v("Russian"),
+                          ]),
+                          _vm._v(" "),
+                          _c("div", { staticClass: "progress" }, [
+                            _c(
+                              "div",
+                              {
+                                staticClass: "percentage",
+                                staticStyle: { width: "30%" },
+                              },
+                              [
+                                _c("span", { staticClass: "percent" }, [
+                                  _c("i", {
+                                    staticClass:
+                                      "icon ion ion-ios-checkmark-empty",
+                                  }),
+                                ]),
+                              ]
+                            ),
+                          ]),
+                        ]),
+                      ]),
+                    ]),
+                  ]),
+                ]),
+              ]),
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            {
+              staticClass: "section experience",
+              attrs: { id: "experience-section" },
+            },
+            [
+              _c("div", { staticClass: "title" }, [
+                _vm._v("\n\t\t\t\t\t\tExperience\n\t\t\t\t\t\t"),
+                _c("span", { staticClass: "circle" }, [
+                  _c("i", { staticClass: "icon ion ion-ios-briefcase" }),
+                ]),
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "cd-timeline" }, [
+                _c("div", { staticClass: "cd-timeline-block animated" }, [
+                  _c("div", { staticClass: "cd-timeline-point" }, [
+                    _c("i", {
+                      staticClass: "icon ion ion-ios-checkmark-empty",
+                    }),
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "cd-timeline-content" }, [
+                    _c("div", { staticClass: "content-box" }, [
+                      _c("div", { staticClass: "date" }, [_vm._v("2013-2016")]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "name" }, [
+                        _vm._v("Facebook Inc."),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "category" }, [
+                        _vm._v("Art Director"),
+                      ]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v(
+                          "\n\t\t\t\t\t\t\t\t\t\tLorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem an, cule dicta iriure at. Ubique \n\t\t\t\t\t\t\t\t\t\tmaluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi tacimates \n\t\t\t\t\t\t\t\t\t\tsapientem sed, pri zril ubique ut. Lorem ipsum dolor sit amet, in quodsi.\n\t\t\t\t\t\t\t\t\t"
+                        ),
+                      ]),
+                    ]),
+                  ]),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "cd-timeline-block animated" }, [
+                  _c("div", { staticClass: "cd-timeline-point" }, [
+                    _c("i", {
+                      staticClass: "icon ion ion-ios-checkmark-empty",
+                    }),
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "cd-timeline-content" }, [
+                    _c("div", { staticClass: "content-box" }, [
+                      _c("div", { staticClass: "date" }, [_vm._v("2009-2013")]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "name" }, [
+                        _vm._v("Google Inc."),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "category" }, [
+                        _vm._v("Front-end Developer"),
+                      ]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v(
+                          "\n\t\t\t\t\t\t\t\t\t\tUbique maluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi \n\t\t\t\t\t\t\t\t\t\ttacimates sapientem sed, pri zril ubique ut. Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent \n\t\t\t\t\t\t\t\t\t\tmediocritatem an, cule dicta iriure at.\n\t\t\t\t\t\t\t\t\t"
+                        ),
+                      ]),
+                    ]),
+                  ]),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "cd-timeline-block animated" }, [
+                  _c("div", { staticClass: "cd-timeline-point" }, [
+                    _c("i", {
+                      staticClass: "icon ion ion-ios-checkmark-empty",
+                    }),
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "cd-timeline-content" }, [
+                    _c("div", { staticClass: "content-box" }, [
+                      _c("div", { staticClass: "date" }, [_vm._v("2004-2009")]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "name" }, [_vm._v("Abc Inc.")]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "category" }, [
+                        _vm._v("Senior Developer"),
+                      ]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v(
+                          "\n\t\t\t\t\t\t\t\t\t\tUbique maluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi \n\t\t\t\t\t\t\t\t\t\ttacimates sapientem sed, pri zril ubique ut. Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent \n\t\t\t\t\t\t\t\t\t\tmediocritatem an, cule dicta iriure at.\n\t\t\t\t\t\t\t\t\t"
+                        ),
+                      ]),
+                    ]),
+                  ]),
+                ]),
+              ]),
+            ]
+          ),
+        ]),
       ]),
     ])
   },
@@ -12508,7 +13616,7 @@ Vue.compile = compileToFunctions;
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
 /******/ 	__webpack_require__.O(undefined, ["css/app"], () => (__webpack_require__("./resources/js/app.js")))
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/app"], () => (__webpack_require__("./resources/css/app.css")))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/app"], () => (__webpack_require__("./resources/sass/app.scss")))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()

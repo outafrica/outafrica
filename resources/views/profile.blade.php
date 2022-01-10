@@ -1,7 +1,7 @@
 <!-- Import header -->
 @include('includes.header')
 
-    <div id="app">
+    <div  class="page" id="home-section">
         <profile></profile>
     </div>
 
