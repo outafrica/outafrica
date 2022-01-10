@@ -5,8 +5,8 @@
 ![50%](https://progress-bar.dev/10)
 
 ## Skills
-![80%](https://pro
+![80%](https://progress-bar.dev/10)
 
 ## Experience
-![40%](https://pro
+![40%](https://progress-bar.dev/10)
 
