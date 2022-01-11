@@ -2,16 +2,16 @@
 
 
 ## About
-![50%](https://progress-bar.dev/10)
+![50%](https://progress-bar.dev/50)
 
 ## Skills
-![80%](https://progress-bar.dev/10)
+![80%](https://progress-bar.dev/80)
 
 ## Experience
-![40%](https://progress-bar.dev/10)
+![40%](https://progress-bar.dev/40)
 
 ## Services
-![60%](https://progress-bar.dev/10)
+![60%](https://progress-bar.dev/60)
 
 ## Education
-![30%](https://progress-bar.dev/10)
+![30%](https://progress-bar.dev/30)
