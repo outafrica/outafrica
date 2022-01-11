@@ -265,9 +265,9 @@
 							</div>
 							<div class="cd-timeline-content">
 								<div class="content-box">
-									<div class="date">2013-2016</div>
-									<div class="name">Facebook Inc.</div>
-									<div class="category">Art Director</div>
+									<div class="date">2021-Date</div>
+									<div class="name"><a href="https://www.brij.money/" target="_blank" rel="noopener noreferrer">Bij Innovaion</a></div>
+									<div class="category">Senior Mobile Developer</div>
 									<p>
 										Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem an, cule dicta iriure at. Ubique 
 										maluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi tacimates 
@@ -282,9 +282,9 @@
 							</div>
 							<div class="cd-timeline-content">
 								<div class="content-box">
-									<div class="date">2009-2013</div>
-									<div class="name">Google Inc.</div>
-									<div class="category">Front-end Developer</div>
+									<div class="date">2020-2021</div>
+									<div class="name"><a href="https://www.brij.money/" target="_blank" rel="noopener noreferrer">Internation Development Law Organization(IDLO)</a></div>
+									<div class="category">Full Stack Developer</div>
 									<p>
 										Ubique maluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi 
 										tacimates sapientem sed, pri zril ubique ut. Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent 
@@ -302,6 +302,137 @@
 									<div class="date">2004-2009</div>
 									<div class="name">Abc Inc.</div>
 									<div class="category">Senior Developer</div>
+									<p>
+										Ubique maluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi 
+										tacimates sapientem sed, pri zril ubique ut. Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent 
+										mediocritatem an, cule dicta iriure at.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Service -->
+				<div class="section service" id="service-section">
+					<div class="title">Services</div>
+					<div class="row">
+						<div class="col col-m-12 col-t-6 col-d-6">
+							<div class="content-box animated">
+								<div class="i_title">
+									<div class="icon"><i class="icon ion ion-social-chrome"></i></div>
+									<div class="name">Web Application</div>
+								</div>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis et tortor ac tincidunt. In euismod iaculis 
+									lobortis. Vestibulum posuere molestie ipsum vel. Vestibulum venenatis vestibulum elit ultricies. Lorem ipsum dolor 
+									sit amet, consectetur adipiscing elit.
+								</p>
+							</div>
+						</div>
+						<div class="col col-m-12 col-t-6 col-d-6">
+							<div class="content-box animated">
+								<div class="i_title">
+									<div class="icon"><i class="icon ion ion-iphone"></i></div>
+									<div class="name">Mobile Application(Android & IOS)</div>
+								</div>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis et tortor ac tincidunt. In euismod iaculis 
+									lobortis. Vestibulum posuere molestie ipsum vel. Vestibulum venenatis vestibulum elit ultricies. Lorem ipsum dolor 
+									sit amet, consectetur adipiscing elit.
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col col-m-12 col-t-6 col-d-6">
+							<div class="content-box animated">
+								<div class="i_title">
+									<div class="icon"><i class="icon ion ion-code-working"></i></div>
+									<div class="name">DevOps</div>
+								</div>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis et tortor ac tincidunt. In euismod iaculis 
+									lobortis. Vestibulum posuere molestie ipsum vel. Vestibulum venenatis vestibulum elit ultricies.
+								</p>
+							</div>
+						</div>
+						<div class="col col-m-12 col-t-6 col-d-6">
+							<div class="content-box animated">
+								<div class="i_title">
+									<div class="icon"><i class="icon ion ion-ios-calendar"></i></div>
+									<div class="name">Project Management</div>
+								</div>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis et tortor ac tincidunt. In euismod iaculis 
+									lobortis. Vestibulum posuere molestie ipsum vel. Vestibulum venenatis vestibulum elit ultricies. Lorem ipsum dolor 
+									sit amet, consectetur adipiscing elit.
+								</p>
+							</div>
+						</div>
+					</div>
+					<!-- <div class="row">
+						<div class="col col-m-12 col-t-6 col-d-6">
+							<div class="content-box animated">
+								<div class="i_title">
+									<div class="icon"><i class="icon ion ion-android-create"></i></div>
+									<div class="name">Writing</div>
+								</div>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis et tortor ac tincidunt. In euismod iaculis 
+									lobortis. Vestibulum posuere molestie ipsum vel. Vestibulum venenatis vestibulum elit ultricies.
+								</p>
+							</div>
+						</div>
+						<div class="col col-m-12 col-t-6 col-d-6">
+							<div class="content-box animated">
+								<div class="i_title">
+									<div class="icon"><i class="icon ion ion-camera"></i></div>
+									<div class="name">Photography</div>
+								</div>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis et tortor ac tincidunt. In euismod iaculis 
+									lobortis. Vestibulum posuere molestie ipsum vel. Vestibulum venenatis vestibulum elit ultricies. Lorem ipsum dolor 
+									sit amet, consectetur adipiscing elit.
+								</p>
+							</div>
+						</div>
+					</div> -->
+				</div>
+
+								<!-- Section Education -->
+				<div class="section education" id="education-section">
+					<div class="title">
+						Education
+						<span class="circle"><i class="icon ion ion-university"></i></span>
+					</div>
+					<div class="cd-timeline">
+						<div class="cd-timeline-block animated">
+							<div class="cd-timeline-point">
+								<i class="icon ion ion-ios-checkmark-empty"></i>
+							</div>
+							<div class="cd-timeline-content">
+								<div class="content-box">
+									<div class="date">2002-2004</div>
+									<div class="name">Art University</div>
+									<div class="category">New York</div>
+									<p>
+										Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem an, cule dicta iriure at. Ubique 
+										maluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi tacimates 
+										sapientem sed, pri zril ubique ut.
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="cd-timeline-block animated">
+							<div class="cd-timeline-point">
+								<i class="icon ion ion-ios-checkmark-empty"></i>
+							</div>
+							<div class="cd-timeline-content">
+								<div class="content-box">
+									<div class="date">2000-2002</div>
+									<div class="name">Front-end Course</div>
+									<div class="category">London</div>
 									<p>
 										Ubique maluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi 
 										tacimates sapientem sed, pri zril ubique ut. Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent 

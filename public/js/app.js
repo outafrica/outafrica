@@ -332,6 +332,137 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   data: function data() {
     return {
@@ -1211,14 +1342,24 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("div", { staticClass: "cd-timeline-content" }, [
                     _c("div", { staticClass: "content-box" }, [
-                      _c("div", { staticClass: "date" }, [_vm._v("2013-2016")]),
+                      _c("div", { staticClass: "date" }, [_vm._v("2021-Date")]),
                       _vm._v(" "),
                       _c("div", { staticClass: "name" }, [
-                        _vm._v("Facebook Inc."),
+                        _c(
+                          "a",
+                          {
+                            attrs: {
+                              href: "https://www.brij.money/",
+                              target: "_blank",
+                              rel: "noopener noreferrer",
+                            },
+                          },
+                          [_vm._v("Bij Innovaion")]
+                        ),
                       ]),
                       _vm._v(" "),
                       _c("div", { staticClass: "category" }, [
-                        _vm._v("Art Director"),
+                        _vm._v("Senior Mobile Developer"),
                       ]),
                       _vm._v(" "),
                       _c("p", [
@@ -1239,14 +1380,28 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("div", { staticClass: "cd-timeline-content" }, [
                     _c("div", { staticClass: "content-box" }, [
-                      _c("div", { staticClass: "date" }, [_vm._v("2009-2013")]),
+                      _c("div", { staticClass: "date" }, [_vm._v("2020-2021")]),
                       _vm._v(" "),
                       _c("div", { staticClass: "name" }, [
-                        _vm._v("Google Inc."),
+                        _c(
+                          "a",
+                          {
+                            attrs: {
+                              href: "https://www.brij.money/",
+                              target: "_blank",
+                              rel: "noopener noreferrer",
+                            },
+                          },
+                          [
+                            _vm._v(
+                              "Internation Development Law Organization(IDLO)"
+                            ),
+                          ]
+                        ),
                       ]),
                       _vm._v(" "),
                       _c("div", { staticClass: "category" }, [
-                        _vm._v("Front-end Developer"),
+                        _vm._v("Full Stack Developer"),
                       ]),
                       _vm._v(" "),
                       _c("p", [
@@ -1273,6 +1428,173 @@ var staticRenderFns = [
                       _vm._v(" "),
                       _c("div", { staticClass: "category" }, [
                         _vm._v("Senior Developer"),
+                      ]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v(
+                          "\n\t\t\t\t\t\t\t\t\t\tUbique maluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi \n\t\t\t\t\t\t\t\t\t\ttacimates sapientem sed, pri zril ubique ut. Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent \n\t\t\t\t\t\t\t\t\t\tmediocritatem an, cule dicta iriure at.\n\t\t\t\t\t\t\t\t\t"
+                        ),
+                      ]),
+                    ]),
+                  ]),
+                ]),
+              ]),
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            {
+              staticClass: "section service",
+              attrs: { id: "service-section" },
+            },
+            [
+              _c("div", { staticClass: "title" }, [_vm._v("Services")]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col col-m-12 col-t-6 col-d-6" }, [
+                  _c("div", { staticClass: "content-box animated" }, [
+                    _c("div", { staticClass: "i_title" }, [
+                      _c("div", { staticClass: "icon" }, [
+                        _c("i", { staticClass: "icon ion ion-social-chrome" }),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "name" }, [
+                        _vm._v("Web Application"),
+                      ]),
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [
+                      _vm._v(
+                        "\n\t\t\t\t\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis et tortor ac tincidunt. In euismod iaculis \n\t\t\t\t\t\t\t\t\tlobortis. Vestibulum posuere molestie ipsum vel. Vestibulum venenatis vestibulum elit ultricies. Lorem ipsum dolor \n\t\t\t\t\t\t\t\t\tsit amet, consectetur adipiscing elit.\n\t\t\t\t\t\t\t\t"
+                      ),
+                    ]),
+                  ]),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col col-m-12 col-t-6 col-d-6" }, [
+                  _c("div", { staticClass: "content-box animated" }, [
+                    _c("div", { staticClass: "i_title" }, [
+                      _c("div", { staticClass: "icon" }, [
+                        _c("i", { staticClass: "icon ion ion-iphone" }),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "name" }, [
+                        _vm._v("Mobile Application(Android & IOS)"),
+                      ]),
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [
+                      _vm._v(
+                        "\n\t\t\t\t\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis et tortor ac tincidunt. In euismod iaculis \n\t\t\t\t\t\t\t\t\tlobortis. Vestibulum posuere molestie ipsum vel. Vestibulum venenatis vestibulum elit ultricies. Lorem ipsum dolor \n\t\t\t\t\t\t\t\t\tsit amet, consectetur adipiscing elit.\n\t\t\t\t\t\t\t\t"
+                      ),
+                    ]),
+                  ]),
+                ]),
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col col-m-12 col-t-6 col-d-6" }, [
+                  _c("div", { staticClass: "content-box animated" }, [
+                    _c("div", { staticClass: "i_title" }, [
+                      _c("div", { staticClass: "icon" }, [
+                        _c("i", { staticClass: "icon ion ion-code-working" }),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "name" }, [_vm._v("DevOps")]),
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [
+                      _vm._v(
+                        "\n\t\t\t\t\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis et tortor ac tincidunt. In euismod iaculis \n\t\t\t\t\t\t\t\t\tlobortis. Vestibulum posuere molestie ipsum vel. Vestibulum venenatis vestibulum elit ultricies.\n\t\t\t\t\t\t\t\t"
+                      ),
+                    ]),
+                  ]),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "col col-m-12 col-t-6 col-d-6" }, [
+                  _c("div", { staticClass: "content-box animated" }, [
+                    _c("div", { staticClass: "i_title" }, [
+                      _c("div", { staticClass: "icon" }, [
+                        _c("i", { staticClass: "icon ion ion-ios-calendar" }),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "name" }, [
+                        _vm._v("Project Management"),
+                      ]),
+                    ]),
+                    _vm._v(" "),
+                    _c("p", [
+                      _vm._v(
+                        "\n\t\t\t\t\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi venenatis et tortor ac tincidunt. In euismod iaculis \n\t\t\t\t\t\t\t\t\tlobortis. Vestibulum posuere molestie ipsum vel. Vestibulum venenatis vestibulum elit ultricies. Lorem ipsum dolor \n\t\t\t\t\t\t\t\t\tsit amet, consectetur adipiscing elit.\n\t\t\t\t\t\t\t\t"
+                      ),
+                    ]),
+                  ]),
+                ]),
+              ]),
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            {
+              staticClass: "section education",
+              attrs: { id: "education-section" },
+            },
+            [
+              _c("div", { staticClass: "title" }, [
+                _vm._v("\n\t\t\t\t\t\tEducation\n\t\t\t\t\t\t"),
+                _c("span", { staticClass: "circle" }, [
+                  _c("i", { staticClass: "icon ion ion-university" }),
+                ]),
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "cd-timeline" }, [
+                _c("div", { staticClass: "cd-timeline-block animated" }, [
+                  _c("div", { staticClass: "cd-timeline-point" }, [
+                    _c("i", {
+                      staticClass: "icon ion ion-ios-checkmark-empty",
+                    }),
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "cd-timeline-content" }, [
+                    _c("div", { staticClass: "content-box" }, [
+                      _c("div", { staticClass: "date" }, [_vm._v("2002-2004")]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "name" }, [
+                        _vm._v("Art University"),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "category" }, [
+                        _vm._v("New York"),
+                      ]),
+                      _vm._v(" "),
+                      _c("p", [
+                        _vm._v(
+                          "\n\t\t\t\t\t\t\t\t\t\tLorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum vocent mediocritatem an, cule dicta iriure at. Ubique \n\t\t\t\t\t\t\t\t\t\tmaluisset vel te, his dico vituperata ut. Pro ei phaedrum maluisset. Ex audire suavitate has, ei quodsi tacimates \n\t\t\t\t\t\t\t\t\t\tsapientem sed, pri zril ubique ut.\n\t\t\t\t\t\t\t\t\t"
+                        ),
+                      ]),
+                    ]),
+                  ]),
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "cd-timeline-block animated" }, [
+                  _c("div", { staticClass: "cd-timeline-point" }, [
+                    _c("i", {
+                      staticClass: "icon ion ion-ios-checkmark-empty",
+                    }),
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "cd-timeline-content" }, [
+                    _c("div", { staticClass: "content-box" }, [
+                      _c("div", { staticClass: "date" }, [_vm._v("2000-2002")]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "name" }, [
+                        _vm._v("Front-end Course"),
+                      ]),
+                      _vm._v(" "),
+                      _c("div", { staticClass: "category" }, [
+                        _vm._v("London"),
                       ]),
                       _vm._v(" "),
                       _c("p", [

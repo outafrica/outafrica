@@ -10,3 +10,8 @@
 ## Experience
 ![40%](https://progress-bar.dev/10)
 
+## Services
+![60%](https://progress-bar.dev/10)
+
+## Education
+![30%](https://progress-bar.dev/10)
