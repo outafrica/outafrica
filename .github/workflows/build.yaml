@@ -3,7 +3,7 @@ name: Outafrica
 on: 
   push:
     branches:
-    - develop
+    - main
   pull_request:
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
       - name: Set Up Node
         uses: actions/setup-node@v3
         with:
-          node-version: 19.4.0
+          node-version: 18.4.2
 
       - name: Compile CSS & JavaScript Files
         run: |
