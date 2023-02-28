@@ -20,7 +20,7 @@ jobs:
       - name: Set Up Node
         uses: actions/setup-node@v3
         with:
-          node-version: 18.4.2
+          node-version: 18.14.2
 
       - name: Compile CSS & JavaScript Files
         run: |
