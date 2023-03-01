@@ -21602,32 +21602,32 @@ function render(_ctx, _cache) {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Collected user requirements based on newly realized features from emerging problems. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Collect user requirements based on newly realized features from emerging problems. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implemented new features in applications based on gathered requirements after object-oriented analysis. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implement new features in applications based on gathered requirements after object-oriented analysis. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Analyzed issues and made improvements to the project's existing features and components. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Analyze issues and made improvements to the project's existing features and components. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Coordinated with other team members for development of portal solutions to support API. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Coordinate with other team members for development of portal solutions to support API. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Developed technical documentation in coordination with software engineering teams. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Develop technical documentation in coordination with software engineering teams. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Completed all the duties efficiently & timely as issued by the team lead. ")])])])])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_18, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_19, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Complete all duties efficiently & timely as issued by the team lead. ")])])])])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_18, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_19, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "white",
       "margin-top": "15%"
@@ -21638,22 +21638,22 @@ function render(_ctx, _cache) {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implemented UI and UXs from design team. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implement UI and UXs from design team. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implemented unit, widget & integration tests using "), _hoisted_30, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(". ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implement unit, widget & integration tests using "), _hoisted_30, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(". ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Performed code reviews and mentored my team by providing support as well learning from them through the developmental and career journey. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Perform code reviews and mentor my team by providing support when needed. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Published apps on Android Playstore, and IOS Appstore/TestFlight. ")])])])])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_31, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_32, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Publish apps on Android Playstore, and IOS Appstore/TestFlight. ")])])])])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_31, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_32, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "white",
       "margin-top": "15%"
@@ -21664,22 +21664,22 @@ function render(_ctx, _cache) {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Gathered user requirements based on new features realized from arising issues. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Gather user requirements based on new features realized from arising issues. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Developed new features based on gathered requirements and provided improvements on existing code components and features of applications. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Develop new features based on gathered requirements and provide improvements on existing code components and features of applications. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implemented methods for identifying and resolving technical issues. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implement methods for identifying and resolving technical issues. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Provided code documentation and other application inputs to technical documents ")])])])])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_44, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_45, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Provide code documentation and other application inputs to technical documents ")])])])])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_44, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_45, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "white",
       "margin-top": "15%"
@@ -21690,27 +21690,27 @@ function render(_ctx, _cache) {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implemented APIs to support registration and hail applications using "), _hoisted_56, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" via USSD. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implement APIs to support registration and hail applications using "), _hoisted_56, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" via USSD. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implemented "), _hoisted_57, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" to implement APIs that handle payment requests. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implement "), _hoisted_57, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" to handle payment requests. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implemented a mobile version of the app using "), _hoisted_58, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" to enable registration, hailing requests and payment processing. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Develop a mobile version of the app using "), _hoisted_58, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" to enable registration, hailing requests and payment processing. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Performed unit &integration tests to validate application components and debugged code based on unit tests results. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Perform unit &integration tests to validate application components and debugged code based on unit tests results. ")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Deployed project to production. ")])])])])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_59, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_60, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Deploy project to production. ")])])])])])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_59, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_60, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "white",
       "margin-top": "15%"
@@ -21721,27 +21721,27 @@ function render(_ctx, _cache) {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implemented and wrote test for new and existing features.")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Implement and write tests for new and existing features.")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Provided technical support to the team members and handled client issues as arise.")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Provide technical support to the team members and handle client issues as they arise.")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Upgrading the project from Laravel 4.2 to Laravel 7.0")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Upgrade the project from Laravel 4.2 to Laravel 7.0")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Maintained the project by fixing bugs & documenting code.")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Maintain the project by fixing bugs & documenting code.")]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_ion_icon, {
     style: {
       "color": "green"
     },
     name: "checkmark-done-circle"
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Deployed project to production.")])])])])])])])])], 2112 /* STABLE_FRAGMENT, DEV_ROOT_FRAGMENT */);
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Deploy project to production.")])])])])])])])])], 2112 /* STABLE_FRAGMENT, DEV_ROOT_FRAGMENT */);
 }
 
 /***/ }),

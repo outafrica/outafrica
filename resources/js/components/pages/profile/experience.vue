@@ -27,22 +27,22 @@
                             <span class="strong bold-title"><u>Key Responsibilities</u></span>
                             <br>
                         <ol class="strong">
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Collected user
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Collect user
                                 requirements based on newly realized features from emerging problems.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implemented new
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement new
                                 features in applications based on gathered requirements after object-oriented analysis.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Analyzed issues and
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Analyze issues and
                                 made improvements to the project's existing features and components.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Coordinated with
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Coordinate with
                                 other team members for development of portal solutions to support API.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Developed technical
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Develop technical
                                 documentation in coordination with software engineering teams.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Completed all the
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Complete all
                                 duties efficiently & timely as issued by the team lead.
                             </li>
 
@@ -71,18 +71,17 @@
                             <span class="strong bold-title"><u>Key Responsibilities</u></span>
                             <br>
                         <ol class="strong">
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implemented UI and
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement UI and
                                 UXs from design team.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implemented
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement
                                 unit, widget & integration tests using <a style="color: #9C27B0;"
                                     href="https://pub.dev/packages/mockito" target="_blank"><u>Mockito</u></a>.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Performed code
-                                reviews and mentored my team by providing support as well learning from them through the
-                                developmental and career journey.
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Perform code
+                                reviews and mentor my team by providing support when needed.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Published apps on
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Publish apps on
                                 Android Playstore, and IOS Appstore/TestFlight.
                             </li>
                         </ol>
@@ -110,17 +109,17 @@
                             <span class="strong bold-title"><u>Key Responsibilities</u></span>
                             <br>
                         <ol class="strong">
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Gathered user
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Gather user
                                 requirements based on new features realized from arising issues.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Developed new
-                                features based on gathered requirements and provided improvements on existing code
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Develop new
+                                features based on gathered requirements and provide improvements on existing code
                                 components and features of applications.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implemented methods
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement methods
                                 for identifying and resolving technical issues.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Provided code
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Provide code
                                 documentation and other application inputs to technical documents
                             </li>
                         </ol>
@@ -149,26 +148,26 @@
                             <span class="strong bold-title"><u>Key Responsibilities</u></span>
                             <br>
                         <ol class="strong">
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implemented APIs to
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement APIs to
                                 support registration and hail applications using <a style="color: #9C27B0;"
                                     href="https://africastalking.com/" target="_blank"><u>Africa's talking</u></a> via USSD.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implemented <a
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement <a
                                     style="color: #9C27B0;" href="https://developer.safaricom.co.ke/"
                                     target="_blank"><u>Safaricom
-                                        Mpesa APIs</u></a> to implement APIs that handle payment requests.
+                                        Mpesa APIs</u></a> to handle payment requests.
                             </li>
                             <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon>
-                                Implemented a mobile version of the app using <a style="color: #9C27B0;"
+                                Develop a mobile version of the app using <a style="color: #9C27B0;"
                                     href="https://flutter.dev/" target="_blank"><u>Flutter</u></a> to enable
                                 registration, hailing
                                 requests and payment processing.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Performed unit
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Perform unit
                                 &integration tests to validate application components and debugged code based on unit tests
                                 results.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Deployed project to
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Deploy project to
                                 production.
                             </li>
                         </ol>
@@ -195,15 +194,15 @@
                             <span class="strong bold-title"><u>Key Responsibilities</u></span>
                             <br>
                         <ol class="strong">
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implemented and
-                                wrote test for new and existing features.</li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Provided technical
-                                support to the team members and handled client issues as arise.</li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Upgrading the
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement and
+                                write tests for new and existing features.</li>
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Provide technical
+                                support to the team members and handle client issues as they arise.</li>
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Upgrade the
                                 project from Laravel 4.2 to Laravel 7.0</li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Maintained the
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Maintain the
                                 project by fixing bugs & documenting code.</li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Deployed project to
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Deploy project to
                                 production.</li>
                         </ol>
                         </p>
