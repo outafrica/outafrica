@@ -71,12 +71,12 @@ export default {
     },
     methods: {
         // handle resume download
-        async downloadResume() {
-            await this.callApi('post', '/download/resume');
+        downloadResume() {
+            this.callApi('post', '/download/resume');
         },
         // handle cover letter download
-        async downloadCoverLetter() {
-            await this.callApi('post', '/download/coverletter');
+        downloadCoverLetter() {
+            this.callApi('post', '/download/coverletter');
         }
     }
 }
