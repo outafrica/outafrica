@@ -18,5 +18,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::post('download/resume', [DownloadFilesController::class, 'downloadResume']);
-Route::post('download/coverletter', [DownloadFilesController::class, 'downloadCoverLetter']);
+Route::get('download/resume', [DownloadFilesController::class, 'downloadResume']);
+Route::get('download/coverletter', [DownloadFilesController::class, 'downloadCoverLetter']);

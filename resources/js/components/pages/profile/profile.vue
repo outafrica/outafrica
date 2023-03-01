@@ -48,10 +48,10 @@
                         </p>
                     </div>
                     <div class="bts">
-                        <button class="btn btn_animated" @click="downloadResume"><span class="circle">Download
-                                CV/Resume</span></button>
-                        <button class="btn btn_animated" @click="downloadCoverLetter"><span class="circle">Download
-                                Cover Letter</span></button>
+                        <a href="download/resume" class="btn btn_animated"><span class="circle">Download
+                                CV/Resume</span></a>
+                        <a href="download/coverletter" class="btn btn_animated"><span class="circle">Download
+                                Cover Letter</span></a>
                         <a href="mailto:george.jarviz@gmail.com" class="btn extra contact-btn btn_animated">
                             <span class="circle">
                                 Contact
