@@ -10,6 +10,8 @@ import './bootstrap';
 import { createApp } from 'vue';
 import router from './router.js';
 import common from './common.js';
+import ToastPlugin from 'vue-toast-notification';
+import 'vue-toast-notification/dist/theme-sugar.css';
 
 
 
@@ -23,8 +25,10 @@ const app = createApp({});
 
 import Main from './components/main.vue';
 app.component('welcome', Main);
+app.use(ToastPlugin);
 app.mixin(common);
 app.use(router);
+
 
 app.config.compilerOptions.isCustomElement = (tag) => {
     return tag.includes('ion-icon')

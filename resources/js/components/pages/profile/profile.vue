@@ -67,15 +67,16 @@
 export default {
     data() {
         return {
-            error: true,
         }
     },
     methods: {
+        // handle resume download
         async downloadResume() {
-            await this.callApi('get', '/download-resume');
+            await this.callApi('post', '/download/resume');
         },
+        // handle cover letter download
         async downloadCoverLetter() {
-            await this.callApi('get', '/download-coverletter');
+            await this.callApi('post', '/download/coverletter');
         }
     }
 }

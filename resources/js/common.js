@@ -20,33 +20,28 @@ export default {
 
         },
 
-        i(desc, title = "Hey") {
-            this.$Notice.info({
-                title: title,
+        i(desc) {
+            this.$toast.info({
                 desc: desc
             });
         },
-        s(desc, title = "Hey") {
-            this.$Notice.success({
-                title: title,
+        s(desc) {
+            this.$toast.success({
                 desc: desc
             });
         },
-        w(desc, title = "Hey") {
-            this.$Notice.warning({
-                title: title,
+        w(desc) {
+            this.$toast.warning({
                 desc: desc
             });
         },
-        e(desc, title = "Required") {
-            this.$Notice.error({
-                title: title,
+        e(desc) {
+            this.$toast.error({
                 desc: desc
             });
         },
-        d(desc = "Something went wrong! Please try again! ", title = "Error") {
-            this.$Notice.default({
-                title: title,
+        d(desc = "Something went wrong! Please try again! ") {
+            this.$toast.default({
                 desc: desc
             });
         }
