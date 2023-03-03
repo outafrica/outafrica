@@ -33,9 +33,8 @@
                             excellent customer service skills. I also have a solid foundation
                             in
                             MySQL, PostgreSQL, MongoDB, and Node.JS. My attention to detail, organizational skills and
-                            strong communication abilities have allowed me to lead software development teams and ensure
-                            the
-                            success of each project assigned to me.
+                            strong communication have allowed me to lead software development teams and ensure
+                            the success of each project assigned to me.
                         </p>
                         <p>
                             I possess a strong background in <strong style="color: #9C27B0;">(PHPUnit/Pest/Cypress/Mockito),
