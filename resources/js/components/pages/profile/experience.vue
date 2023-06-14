@@ -13,9 +13,67 @@
                 </div>
                 <div class="cd-timeline-content">
                     <div class="content-box">
+                        <div class="date">2023-Present</div>
+                        <div class="name bold-title"><a style="color:  #9C27B0" href="https://rentolo.co/" target="_blank"
+                                rel="noopener noreferrer">Rentolo Corp</a></div>
+                        <div class="category">Senior Mobile(Flutter) Developer</div>
+                        <p>
+                            A digital market place and coordination platform that matches
+                            entities and organisations taking part in the heavy machinery &
+                            construction equipment industry: owners, construction companies,
+                            users, maintenance facilities and other relevant stakeholders in its
+                            network.
+                            <br>
+                            <br>
+                            <span class="strong bold-title"><u>Key Responsibilities</u></span>
+                            <br>
+                        <ol class="strong">
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Lead development
+                                projects & ensure that they stay on schedule
+                                and produce high-quality code.
+                            </li>
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Create and manage
+                                Continuous Integration/Continuous
+                                Deployment (CI/CD) pipelines that automate the building,
+                                testing, and deployment of software
+                            </li>
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Design the
+                                application architecture, including the application's
+                                data architecture, user interface, and user experience
+                            </li>
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Collaborate with
+                                cross-functional teams, including product
+                                managers, designers, and QA testers, to ensure that the
+                                application meets the requirements and standards.
+                            </li>
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Mentor junior
+                                developers and providing guidance on best
+                                practices, code reviews, and problem-solving.
+                            </li>
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Stay up-to-date
+                                with the latest technologies and trends in the
+                                mobile development industry, and recommend appropriate
+                                changes to the application architecture when necessary.
+                            </li>
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Provide technical
+                                leadership to the team, including driving the
+                                adoption of best practices, tools, and frameworks.
+                            </li>
+                        </ol>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="cd-timeline-block animated">
+                <div class="cd-timeline-point">
+                    <ion-icon style="color: white; margin-top: 15%;" name="shield-checkmark"></ion-icon>
+                </div>
+                <div class="cd-timeline-content">
+                    <div class="content-box">
                         <div class="date">2022-2023</div>
                         <div class="name bold-title"><a style="color:  #9C27B0" href="https://www.idlo.int/" target="_blank"
-                                rel="noopener noreferrer">International Development Law Organization(IDLO)</a></div>
+                                rel="noopener noreferrer">International Development Law
+                                Organization(IDLO)</a></div>
                         <div class="category">Full Stack Developer</div>
                         <p>
                             Worked as a cosultant for the <a style="color: #9C27B0;" href="https://www.ncaj.go.ke/"
@@ -33,13 +91,15 @@
                             <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement new
                                 features in applications based on gathered requirements after object-oriented analysis.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Analyze issues and
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Analyze issues
+                                and
                                 made improvements to the project's existing features and components.
                             </li>
                             <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Coordinate with
                                 other team members for development of portal solutions to support API.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Develop technical
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Develop
+                                technical
                                 documentation in coordination with software engineering teams.
                             </li>
                             <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Complete all
@@ -62,7 +122,7 @@
                                 target="_blank" rel="noopener noreferrer">Brij
                                 Innovation</a>
                         </div>
-                        <div class="category">Lead Mobile(Flutter) Developer</div>
+                        <div class="category">Senior Mobile(Flutter) Developer</div>
                         <p>
                             A modern, simple and secure way to make instant payments, send and receive money, pay
                             bills, and shop across Africa.
@@ -71,7 +131,8 @@
                             <span class="strong bold-title"><u>Key Responsibilities</u></span>
                             <br>
                         <ol class="strong">
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement UI and
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement UI
+                                and
                                 UXs from design team.
                             </li>
                             <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement
@@ -97,7 +158,8 @@
                     <div class="content-box">
                         <div class="date">2020-2021</div>
                         <div class="name bold-title"><a style="color:  #9C27B0" href="https://www.idlo.int/" target="_blank"
-                                rel="noopener noreferrer">International Development Law Organization(IDLO)</a></div>
+                                rel="noopener noreferrer">International Development Law
+                                Organization(IDLO)</a></div>
                         <div class="category">Full Stack Developer</div>
                         <p>
                             Worked as a cosultant for the <a style="color: #9C27B0;" href="https://www.ncaj.go.ke/"
@@ -116,7 +178,8 @@
                                 features based on gathered requirements and provide improvements on existing code
                                 components and features of applications.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement methods
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement
+                                methods
                                 for identifying and resolving technical issues.
                             </li>
                             <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Provide code
@@ -148,9 +211,11 @@
                             <span class="strong bold-title"><u>Key Responsibilities</u></span>
                             <br>
                         <ol class="strong">
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement APIs to
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement APIs
+                                to
                                 support registration and hail applications using <a style="color: #9C27B0;"
-                                    href="https://africastalking.com/" target="_blank"><u>Africa's talking</u></a> via USSD.
+                                    href="https://africastalking.com/" target="_blank"><u>Africa's talking</u></a> via
+                                USSD.
                             </li>
                             <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement <a
                                     style="color: #9C27B0;" href="https://developer.safaricom.co.ke/"
@@ -164,10 +229,12 @@
                                 requests and payment processing.
                             </li>
                             <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Perform unit
-                                &integration tests to validate application components and debugged code based on unit tests
+                                &integration tests to validate application components and debugged code based on unit
+                                tests
                                 results.
                             </li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Deploy project to
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Deploy project
+                                to
                                 production.
                             </li>
                         </ol>
@@ -196,13 +263,15 @@
                         <ol class="strong">
                             <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Implement and
                                 write tests for new and existing features.</li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Provide technical
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Provide
+                                technical
                                 support to the team members and handle client issues as they arise.</li>
                             <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Upgrade the
                                 project from Laravel 4.2 to Laravel 7.0</li>
                             <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Maintain the
                                 project by fixing bugs & documenting code.</li>
-                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Deploy project to
+                            <li><ion-icon style="color: green;" name="checkmark-done-circle"></ion-icon> Deploy project
+                                to
                                 production.</li>
                         </ol>
                         </p>
